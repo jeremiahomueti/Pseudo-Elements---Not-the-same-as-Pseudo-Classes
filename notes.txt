@@ -1,0 +1,13 @@
+These are almost like pseudo classes, 
+but they select a particular part of the selected elements. 
+
+They are no where near as many as Pseudo classes - there are 
+only a handful of them. 
+
+
+Unlike pseudo classes that has use a single column,
+
+Pseudo elements use two columns.
+
+Pseudo classes are a state - whereas pseudo elements are 
+a thing or specific selected item.
